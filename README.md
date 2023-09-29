@@ -1,6 +1,7 @@
-# financital_report
+# financial_report
 
 Using Power BI to Clean, Preprocessing Dataset, and Create a dashboard
+
 ### Page 1
 <img src="Dashboard/Pagina 1.png">
 
